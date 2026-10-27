@@ -65,4 +65,4 @@ Dataset asli berasal dari Dinas Perhubungan Kabupaten Bogor dan memuat data prib
 ## Kontak
  
 **Evan Yudi Pratama**
-Email: evnydprtma@gmail.com
+Email: evanyudipratama12@gmail.com
